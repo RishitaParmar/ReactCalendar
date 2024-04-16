@@ -1,5 +1,26 @@
 [
     {
+        "date":"31",
+        "tithi":"વદ છઠ",
+        "colorBox":"red"
+    },
+    {
+        "date":"",
+        "tithi":""
+    },
+    {
+        "date":" ",
+        "tithi":" "
+    },
+    {
+        "date":"",
+        "tithi":""
+    },
+    {
+        "date":"",
+        "tithi":""
+    },
+    {
         "date":"1",
         "tithi":"મહા વદ છઠ"
     },
@@ -9,118 +30,127 @@
     },
     {
         "date":"3",
-        "tithi":"વદ "
+        "tithi":"વદ સાતમ",
+        "colorBox":"red"
     },
     {
         "date":"4",
-        "tithi":"abc3"
+        "tithi":"વદ આથમ"
     },
     {
         "date":"5",
-        "tithi":"abc3"
+        "tithi":"વદ નોમ-દશમ"
     },
     {
         "date":"6",
-        "tithi":"abc3"
+        "tithi":"વિજયા એકાદશી ઉપવાસ",
+        "image":"./images/ekadasi.jpg"
     },
     {
         "date":"7",
-        "tithi":"abc3"
+        "tithi":"વદ બારસ"
     },
     {
         "date":"8",
-        "tithi":"abc3"
+        "tithi":"વદ તેરસ મહાશિવરાત્રી",
+        "image":"./images/shivratri.jpg"
     },
     {
         "date":"9",
-        "tithi":"abc3"
+        "tithi":"વદ ચૌદશ"
     },
     {
         "date":"10",
-        "tithi":"abc3"
+        "tithi":"અમાસ",
+        "colorBox":"red"
     },
     {
         "date":"11",
-        "tithi":"abc"
+        "tithi":"ફાગણ સુદ પડવો"
     },
     {
         "date":"12",
-        "tithi":"abc1"
+        "tithi":"સુદ બીજ-ત્રિજ"
     },
+    
     {
         "date":"13",
-        "tithi":"abc2"
+        "tithi":"સુદ ચોથ"
     },
     {
         "date":"14",
-        "tithi":"abc3"
+        "tithi":"સુદ પાંચમ"
     },
     {
         "date":"15",
-        "tithi":"abc3"
+        "tithi":"સુદ છઠ"
     },
     {
         "date":"16",
-        "tithi":"abc3"
+        "tithi":"સુદ સાતમ"
     },
     {
         "date":"17",
-        "tithi":"abc3"
+        "tithi":"સુદ આથમ",
+        "colorBox":"red"
     },
     {
         "date":"18",
-        "tithi":"abc"
+        "tithi":"સુદ નોમ શ્રીહરિ નવમી"
     },
     {
         "date":"19",
-        "tithi":"abc1"
+        "tithi":"સુદ દશમ"
     },
     {
         "date":"20",
-        "tithi":"abc2"
+        "tithi":"આમલકી એકાદશી ઉપવાસ",
+        "image":"./images/ekadasi.jpg"
     },
     {
         "date":"21",
-        "tithi":"abc3"
+        "tithi":"સુદ બારસ"
     },
     {
         "date":"22",
-        "tithi":"abc3"
+        "tithi":"સુદ તેરસ"
     },
     {
         "date":"23",
-        "tithi":"abc3"
+        "tithi":"સુદ તેરસ"
     },
     {
         "date":"24",
-        "tithi":"abc3"
+        "tithi":"પુનમ,હોળી શ્રીભગતસિંહ જયંતિ",
+        "image":"./images/holika.jpg",
+        "colorBox":"red"
     },
     {
         "date":"25",
-        "tithi":"abc3"
+        "tithi":"ધુનેટી શ્રી સાહેબજી પ્રાગટ્યદિન",
+        "image":"./images/holi.jpg",
+        "colorBox":"red"
     },
     {
         "date":"26",
-        "tithi":"abc3"
+        "tithi":"ફાગણ વદ પડવો"
     },
     {
         "date":"27",
-        "tithi":"abc3"
+        "tithi":"વદ બીજ "
     },
     {
         "date":"28",
-        "tithi":"abc"
+        "tithi":"વદ ત્રિજ"
     },
     {
         "date":"29",
-        "tithi":"abc1"
+        "tithi":"વદ ચૌથ ગુડફ્રાયડે",
+        "image":"./images/goodfriday.jpg",
+        "colorBox":"red"
     },
     {
         "date":"30",
-        "tithi":"abc2"
-    },
-    {
-        "date":"31",
-        "tithi":"abc2"
+        "tithi":"વદ પાંચમ શ્રી રંગપંચમી"
     }
 ]

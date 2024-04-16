@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+    height: 20vh; /* Set height to full viewport height */
+  }
+  
+  .header-container {
+    display: flex;
+    /* align-items: center; */
+    /* background-color: lightblue; */
+    /* width: 1000px; */
+  }
+  .header-text {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .main-heading {
+    font-size: 30px; /* Adjust font size */
+    font-weight: bold;
+    margin: 0; /* Remove default margin */
+    color: rgb(48, 48, 163);
+    font-family: 'Cambria Math', serif;
+    position: relative;
+  }
+  
+  .sub-heading {
+    font-size: 23px; /* Adjust font size */
+    margin: 0; /* Remove default margin */
+    color: brown;
+  }
+  
